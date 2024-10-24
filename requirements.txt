@@ -1,0 +1,4 @@
+amadeus==11.0.0
+python-dotenv==1.0.1
+requests==2.32.3
+twilio==9.3.5
